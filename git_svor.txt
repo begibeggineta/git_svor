@@ -11,3 +11,7 @@
 	git status - sýnir allar gerðir af kóða sem hefur verið gerður
 	git diff - sýnir muninn á hvað hefur breyst
 	git checkout - gefur það sem er nýtt branch
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff  -sýnir muninn á hvað hefur breyst
+	b) git diff --staged - sýnir það sem þú hefur gert
+	c) git diff commit1 commit2 - sýnir muninn það sem þú gerðir í möppu1 við möppu2
