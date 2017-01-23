@@ -5,3 +5,9 @@
 	ls - sýnir innihald möppuna
 	pwd - seigir hvaða möppu þú ert í
 	mkdir: Býr til nýa möppu
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - afritar innihald möppu og situr það í aðra möppu
+	git log - seigir hver gerði hvaða kóða 
+	git status - sýnir allar gerðir af kóða sem hefur verið gerður
+	git diff - sýnir muninn á hvað hefur breyst
+	git checkout - gefur það sem er nýtt branch
