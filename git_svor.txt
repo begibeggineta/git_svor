@@ -1,1 +1,7 @@
-"#Git spurningar og svör"
+﻿"#Git spurningar og svör"
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - opnar möppu
+	cd ~ - opnar möppu í user sem þú ert í C:/User/Bergþór
+	ls - sýnir innihald möppuna
+	pwd - seigir hvaða möppu þú ert í
+	mkdir: Býr til nýa möppu
