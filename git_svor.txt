@@ -31,3 +31,5 @@
 		það er commitið sem þú vinnur í 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 		þegar þú ert með of miklar möppur í einni möppu
+9.	Hver fann upp GIT?
+		linus torvalds
