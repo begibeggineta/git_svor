@@ -33,3 +33,5 @@
 		þegar þú ert með of miklar möppur í einni möppu
 9.	Hver fann upp GIT?
 		linus torvalds
+10.	Hvar er GIT helst notað?
+		í hópverkefnium
