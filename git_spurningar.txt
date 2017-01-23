@@ -23,11 +23,12 @@
 5.	Hverjir eru helstu kostir við að nota GIT?
 		hægt er að kóða fimm til 40 á sama hlutnum
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
+		eftir að aðilinn er búinn að kóða skoði hvort hann virki með að nota commit svo eins oft og það þarf
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
+		það er commitið sem þú vinnur í 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
-
+		þegar þú ert með of miklar möppur í einni möppu
 9.	Hver fann upp GIT?
-
+		linus torvalds
 10.	Hvar er GIT helst notað?
+		í hópverkefnium
